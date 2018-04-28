@@ -1,0 +1,11 @@
+﻿<Application x:Class="Fivestar.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Fivestar"
+             StartupUri="MainWindow.xaml">
+    <Application.Resources>
+
+        <Color x:Key="Color1">#FFFF6600</Color>
+
+    </Application.Resources>
+</Application>
