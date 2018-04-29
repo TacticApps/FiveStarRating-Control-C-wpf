@@ -1,1 +1,1 @@
-# FiveStarRating-Control-C-wpf
+# FiveStarRating-Control-C#-wpf
